@@ -1,6 +1,6 @@
 ---
-title: "Estatística Experimental"
-date: "`r Sys.Date()`"
+title: "Disciplinas de Estatística Básica e Introdução à Bioestatística"
+date: ""
 output:
   rmdformats::downcute:
     highlight: kate
@@ -23,11 +23,11 @@ opts_chunk$set(echo=FALSE,
 opts_knit$set(width=75)
 ```
 
-# Disciplinas de Estatística Básica e Introdução à Bioestatística 
+
 
 **Prof. Wagner Tassinari (DEMAT/UFRRJ)**
 
-[*wtassinari@gmail.com*](wtassinari@gmail.com)
+email: [*wtassinari@gmail.com*](wtassinari@gmail.com)
 
 ```{r echo=F, fig.align="center", message=FALSE, warning=FALSE, comments=NA, out.width="90%", comment=NA}
 knitr::include_graphics('rural.jpg')
