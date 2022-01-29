@@ -106,23 +106,21 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Programa das Disciplinas
 
-- Introdução à Estatística
+- Introdução à Inferência Estatística
 
-- Apresentação dos dados em Tabelas
+- Introdução à Estatística Experimental
 
-- Apresentação dos dados em Gráficos
+- Intervalos de Confiança
 
-- Medidas de Tendência Central
+- Testes de Hipótese
 
-- Medidas de Dispersão
+- Experimento Inteiramente ao Acaso
+
+- Experimento em Bloscos ao Acaso
 
 - Associação entre duas Variáveis
 
-- Introdução à Probabilidade
-
-- Variáveis Aleatórias Discretas e Contínuas
-
-- Introduão à Inferência Estatística
+- Introdução à Regressão Linear
 
 
 
@@ -216,3 +214,62 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | **15/03** |  `r colFmt("**P1** **",'red')`        |       |      | **03/05** |      `r colFmt("**Segunda chamada** **",'red')`    |       |
 |     -     |                 -                 |       |      | **05/05** |      `r colFmt("**Optativa** **",'red')`             |       |
 
+###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')`
+
+###### `r colFmt("  **As avaliações estão escritas na cor vermelha marcadas com dois asterísticos.",'red')`
+
+###### `r colFmt("  ***Aulas de revisão (aulas facultativas).",'orange')`
+
+<!-- ###### `r colFmt("  ****Ponto facultativo.",'green')` -->
+
+
+# Conteúdo das aulas
+
+## **Apresentação da disciplina**
+
+- Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). 
+
+## **Aula 1:** Conceitos Básicos
+
+- Nessa aula serão apresentados alguns conceitos fundamentais para se trabalhar com as principais ferramentas da análise estatística, são eles: introdução aos somatórios, cálculo do fatorial e análise combinatória. 
+
+- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. 
+
+
+| Atividades |                Tipo de Atividade                            | Links|
+| :---------: | ---------------------------------------------------------- | :---: |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 1  |  [link](https://drive.google.com/file/d/1e9khuzCrrjK95u0vi64GNrhrn2q_V1qU/view?usp=drivesdk)  |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 2 |  [link](https://drive.google.com/file/d/1gaEOHuBlWcUTjJ3u3rJILr4K99VY9_m5/view?usp=drivesdk)  |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://drive.google.com/file/d/1uI6AxGQ2-FKWjvJiNO2J4p9bHaM158hU/view?usp=drivesdk)   |
+| Assíncrona | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/1MEKmWA_G1wXg8FG5bgfC92AhIOs4YWIo/view?usp=drivesdk)   |
+| Assíncrona | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1JY_3_bRzxALrZ5FLSzF0YM0iS72ZKdNJ/view?usp=drivesdk)  |
+| Síncrona | Atividades síncronas a respeito da Aula 1 |  [Em breve !!!]()  |
+| Síncrona | Script do R a respeito da Aula síncrona 1 |  [link](https://drive.google.com/file/d/1pkc_8I69QBnj6EdF4440k-MLsU2yeQZ7/view?usp=sharing)  |
+
+
+
+## **Aulas 2 e 3:** Apresentação dos dados em tabelas e gráficos
+
+- Nessas aulas, serão apresentados técnicas de como se apresenta os dados organizados em tabelas e em gráficos.
+
+- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos.
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+|  -          | **Apresentção dos dados em tabelas** |    |
+| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 1  |  [link](https://drive.google.com/file/d/12fbuxcy6udHU6wUV_jQ9-EeQxCQ4eyif/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 2 |  [link](https://drive.google.com/file/d/1HO8xjEB2LMdWA-0uYw_e9tsayDZHtqE2/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 3 | [link](https://drive.google.com/file/d/1EocPxFLLfQfQISvuP_zcJ-UHVAUQot-W/view?usp=sharing)   |
+| Assíncrona | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1dmaVVeVi55ivVFhYZRelfRvoiI0PkirK/view?usp=sharing)   |
+|  -          | **Apresentção dos dados em gráficos** |    |
+| Assíncrona | Videoaula sobre a Aula 3 - Vídeo 1  |  [link](https://drive.google.com/file/d/1FHYc6wYByDdtvL_evH1fZXO1oXdQC8EJ/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 3 - Vídeo 2 |  [link](https://drive.google.com/file/d/1m8ro_zrRHbP6sxTMchUmaZuakaFGYCB2/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Px3KZddnCooUu0VAUcrt9QadgUEdPtR4/view?usp=sharing)   |
+|  -          | **-** |    |
+| Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1oFBH01pu3OOznx1cDCWLF2EPGHE4lxKC/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [Em breve !!!]()  |
+| Síncrona | Script do R a respeito da Aula síncrona 2 e 3 |  [link](https://drive.google.com/file/d/1G63r6G0YPBM_EHkaDKI3E-vIPyeS_4_j/view?usp=sharing)  |
