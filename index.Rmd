@@ -199,26 +199,25 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
 | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
-| **01/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   -   |      | **17/03** |            Introdução à Probabilidade            |   8   |
-| **03/02** |         Conceitos Básicos         |   1   |      | **22/03** |    `r colFmt("Introdução à Probabilidade*",'blue')`    |   8   |
-| **08/02** | `r colFmt("Conceitos Básicos*",'blue')`  |   1   |      | **24/03** |               Variáveis Aleatórias               |   9   |
-| **10/02** |        Tabelas e Gráficos         | 2 e 3 |      | **29/03** |   `r colFmt("Variáveis Aleatórias*",'blue')`  |   9   |
-| **15/02** | `r colFmt("Tabelas e Gráficos*",'blue')`  | 2 e 3 |      | **31/03** | Distribuições de Probabilidade para VA discretas |  10   |
-| **17/02** |        Medidas de Posição         |   4   |      | **05/04** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')`  |  10   |
-| **22/02** |  `r colFmt("Medidas de Posição*",'blue')`  |   4   |      | **07/04** | Distribuições de Probabilidade para VA contínuas |  11   |
-| **24/02** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **12/04** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   |
-| **01/03** | `r colFmt("Medidas de Dispersão e Assimetria*",'blue')`| 5 e 6 |      | **14/04** |       Introdução à Inferência Estatística        |  12   |
-| **03/03** |       Análise Bidimensional       |   7   |      | **19/04** |       `r colFmt("Introdução à Inferência Estatística*",'blue')`       |  12   |
-| **08/03** | `r colFmt("Análise Bidimensional*",'blue')`  |   7   |      | **26/04** |       `r colFmt("**Revisão** ***",'orange')`     |       |
-| **10/03** |        `r colFmt("**Revisão** ***",'orange')`          |       |      | **28/04** |     `r colFmt("**P2** **",'red')`                   |       |
-| **15/03** |  `r colFmt("**P1** **",'red')`        |       |      | **03/05** |      `r colFmt("**Segunda chamada** **",'red')`    |       |
-|     -     |                 -                 |       |      | **05/05** |      `r colFmt("**Optativa** **",'red')`             |       |
+| **07/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   1   |      | **28/03** |     `r colFmt("Experimentos Inteiramente ao Acaso *",'blue')`   |   12  |
+| **09/02** |        Introdução à Inferência Estatística         |   2   |      | **30/03** |     Experimentos Inteiramente ao Acaso     |   13   |
+| **14/02** | `r colFmt("Introdução à Inferência Estatística*",'blue')`  |  3   |      | **04/04** |     `r colFmt("Experimentos Inteiramente ao Acaso*",'blue')`            |   14  |
+| **16/02** |        Introdução à Estatística Experimental         | 4|      | **06/04** |    Experimentos em Blocos ao Acaso  |   15  |
+| **21/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`  | 5 |      | **11/04** |  `r colFmt(" Experimentos em Blocos ao Acaso*",'blue')` |  16   |
+| **23/02** |        Intervalos de Confiança         |   6   |      | **13/04** | Experimentos em Blocos ao Acaso  |  17   |
+| **07/03** |  `r colFmt("Intervalos de Confiança*",'blue')`  |   7   |      | **18/04** | `r colFmt("Experimentos em Blocos ao Acaso*",'blue')` |  18   |
+| **09/03** | Testes de Hipótese | 8 |      | **20/04** | Int. Regressão Linear Simples |  19   |
+| **14/03** | `r colFmt("Testes de Hipótese*",'blue')`| 9 |      | **25/04** |       `r colFmt("Int. Regressão Linear Simples*",'blue')`       |  20   |
+| **16/03** |      Revisão      |   10   |      | **27/04** |      `r colFmt("**P2** **",'red')`       |     |
+| **21/03** | `r colFmt("**P1** **",'red')`  |      |      | **02/05** |       `r colFmt("**Segunda chamada** **",'red')`     |       |
+| **23/03** |        Experimentos Inteiramente ao Acaso         |  11     |      | **04/05** |     `r colFmt("**Optativa** **",'red')`   |       |
+
 
 ###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')`
 
 ###### `r colFmt("  **As avaliações estão escritas na cor vermelha marcadas com dois asterísticos.",'red')`
 
-###### `r colFmt("  ***Aulas de revisão (aulas facultativas).",'orange')`
+<!-- ###### `r colFmt("  ***Aulas de revisão (aulas facultativas).",'orange')` -->
 
 <!-- ###### `r colFmt("  ****Ponto facultativo.",'green')` -->
 
@@ -229,7 +228,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 - Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). 
 
-## **Aula 1:** Conceitos Básicos
+## **Aula 1:** Introdução à Inferência Estatística
 
 - Nessa aula serão apresentados alguns conceitos fundamentais para se trabalhar com as principais ferramentas da análise estatística, são eles: introdução aos somatórios, cálculo do fatorial e análise combinatória. 
 
@@ -250,7 +249,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 
 
-## **Aulas 2 e 3:** Apresentação dos dados em tabelas e gráficos
+## **Aulas 2:** Introdução à Estatística Experimental
 
 - Nessas aulas, serão apresentados técnicas de como se apresenta os dados organizados em tabelas e em gráficos.
 
