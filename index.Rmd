@@ -74,7 +74,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 ## Objetivo das Disciplinas 
 
-- Introduzir os conceitos básicos de estatística dando maior ênfase às aplicações nas diversas ciências.
+- Introduzir os conceitos de experimentação estatística dando maior ênfase as aplicações nas diversas áreas.
 
 ## Formato das Disciplinas 
 
@@ -106,7 +106,6 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Programa das Disciplinas
 
-- Introdução à Inferência Estatística
 
 - Introdução à Estatística Experimental
 
@@ -155,26 +154,21 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Bibliografias
 
-## Bibliografia Básica
-
--  Wilton O. Bussab; Pedro A. Morettin. **Estatística Básica**. Editora Saraiva
+- Pimentel Gomes.  **Curso de Estatística Experimental**. EditoraNobel. 2000.
 
 \vspace{0.3mm}
 
--  Sonia Vieira. **Introdução à Bioestatística**. Editora Elsevier
+-  Sonia Vieira. **Análise de variância**. Editora Atlas, 2006.
+
+\vspace{0.3mm}
+
+- Ferreira, P. V. **Estatística Experimental Aplicada à Agronomia**.  Editora EDUFAL. 2000.
 
 
-## Bibliografia Sugerida
+## Material para Revisão 
 
 - [Diógenes Ferreira Filho. **Apostila de Estatística Básica**, UFRRJ. 2017](https://drive.google.com/file/d/1eo4CWWqZzNibXqNK4bfUxZXzqwEgufIl/view?usp=drivesdk)
 
-\vspace{0.3mm}
-
-- [Vu, J; Harrington, D. **Introductory Statistics for the Life and Biomedical Sciences**, 1ª edição. 2020.](https://leanpub.com/biostat)
-
-\vspace{0.3mm}
-
-- [Diez, DM; Barr, C D; Çetinkaya-Rundel M. **OpenIntro Statistics**, 3ª edição. 2015.](https://leanpub.com/openintro-statistics)
 
 # Instalando o pacote estatístico R + sua interface gráfica RStudio
 
@@ -200,8 +194,8 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
 | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
 | **07/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   1   |      | **28/03** |     `r colFmt("Experimentos Inteiramente ao Acaso *",'blue')`   |   12  |
-| **09/02** |        Introdução à Inferência Estatística         |   2   |      | **30/03** |     Experimentos Inteiramente ao Acaso     |   13   |
-| **14/02** | `r colFmt("Introdução à Inferência Estatística*",'blue')`  |  3   |      | **04/04** |     `r colFmt("Experimentos Inteiramente ao Acaso*",'blue')`            |   14  |
+| **09/02** |        Introdução à Estatística Experimental          |   2   |      | **30/03** |     Experimentos Inteiramente ao Acaso     |   13   |
+| **14/02** | `r colFmt("Introdução à Estatística Experimental *",'blue')`  |  3   |      | **04/04** |     `r colFmt("Experimentos Inteiramente ao Acaso*",'blue')`            |   14  |
 | **16/02** |        Introdução à Estatística Experimental         | 4|      | **06/04** |    Experimentos em Blocos ao Acaso  |   15  |
 | **21/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`  | 5 |      | **11/04** |  `r colFmt(" Experimentos em Blocos ao Acaso*",'blue')` |  16   |
 | **23/02** |        Intervalos de Confiança         |   6   |      | **13/04** | Experimentos em Blocos ao Acaso  |  17   |
@@ -224,51 +218,39 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Conteúdo das aulas
 
-## **Apresentação da disciplina**
+## Aula Inicial - Apresentação da disciplina
 
 - Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). 
 
-## **Aula 1:** Introdução à Inferência Estatística
-
-- Nessa aula serão apresentados alguns conceitos fundamentais para se trabalhar com as principais ferramentas da análise estatística, são eles: introdução aos somatórios, cálculo do fatorial e análise combinatória. 
-
-- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
-
-- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. 
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Síncrona | Link para sala de aula remota|  [Em breve !!!]()  |
 
 
-| Atividades |                Tipo de Atividade                            | Links|
-| :---------: | ---------------------------------------------------------- | :---: |
-| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 1  |  [link](https://drive.google.com/file/d/1e9khuzCrrjK95u0vi64GNrhrn2q_V1qU/view?usp=drivesdk)  |
-| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 2 |  [link](https://drive.google.com/file/d/1gaEOHuBlWcUTjJ3u3rJILr4K99VY9_m5/view?usp=drivesdk)  |
-| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://drive.google.com/file/d/1uI6AxGQ2-FKWjvJiNO2J4p9bHaM158hU/view?usp=drivesdk)   |
-| Assíncrona | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/1MEKmWA_G1wXg8FG5bgfC92AhIOs4YWIo/view?usp=drivesdk)   |
-| Assíncrona | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1JY_3_bRzxALrZ5FLSzF0YM0iS72ZKdNJ/view?usp=drivesdk)  |
-| Síncrona | Atividades síncronas a respeito da Aula 1 |  [Em breve !!!]()  |
-| Síncrona | Script do R a respeito da Aula síncrona 1 |  [link](https://drive.google.com/file/d/1pkc_8I69QBnj6EdF4440k-MLsU2yeQZ7/view?usp=sharing)  |
+## Aula sobre Introdução à Estatística Experimental
 
+- Nessas aulas, serão revisados alguns conceitos da disciplida de estatística básica e também serão introduzidos alguns conceitos a respeito da estatística experimental.
 
+- Todo o conteúdo dessas aulas, serão abordados de forma sincrona e assíncrona (material de leitura e  exercícios). 
 
-## **Aulas 2:** Introdução à Estatística Experimental
-
-- Nessas aulas, serão apresentados técnicas de como se apresenta os dados organizados em tabelas e em gráficos.
-
-- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
-
-- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos.
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-|  -          | **Apresentção dos dados em tabelas** |    |
-| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 1  |  [link](https://drive.google.com/file/d/12fbuxcy6udHU6wUV_jQ9-EeQxCQ4eyif/view?usp=sharing)  |
-| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 2 |  [link](https://drive.google.com/file/d/1HO8xjEB2LMdWA-0uYw_e9tsayDZHtqE2/view?usp=sharing)  |
-| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 3 | [link](https://drive.google.com/file/d/1EocPxFLLfQfQISvuP_zcJ-UHVAUQot-W/view?usp=sharing)   |
-| Assíncrona | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1dmaVVeVi55ivVFhYZRelfRvoiI0PkirK/view?usp=sharing)   |
-|  -          | **Apresentção dos dados em gráficos** |    |
-| Assíncrona | Videoaula sobre a Aula 3 - Vídeo 1  |  [link](https://drive.google.com/file/d/1FHYc6wYByDdtvL_evH1fZXO1oXdQC8EJ/view?usp=sharing)  |
-| Assíncrona | Videoaula sobre a Aula 3 - Vídeo 2 |  [link](https://drive.google.com/file/d/1m8ro_zrRHbP6sxTMchUmaZuakaFGYCB2/view?usp=sharing)  |
-| Assíncrona | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Px3KZddnCooUu0VAUcrt9QadgUEdPtR4/view?usp=sharing)   |
-|  -          | **-** |    |
-| Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1oFBH01pu3OOznx1cDCWLF2EPGHE4lxKC/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [Em breve !!!]()  |
-| Síncrona | Script do R a respeito da Aula síncrona 2 e 3 |  [link](https://drive.google.com/file/d/1G63r6G0YPBM_EHkaDKI3E-vIPyeS_4_j/view?usp=sharing)  |
+| Assíncrona | Aterial didático para leitura  |  [link](https://drive.google.com/file/d/1X-n97ER9NspiWtvPk3Rr-6bTN1B22p2d/view?usp=sharing)  |
+| Síncrona | Link para sala de aula remota|  [Em breve !!!]()  |
+
+
+## Aula sobre Intervalos de Confiança 
+
+
+## Aula sobre Testes de Hipótese
+
+
+## Aula sobre Experimentos Inteiramente ao Acaso
+
+
+## Aula sobre Experimentos em Blocos ao Acaso
+
+
+## Aula sobre Introdução à Regressão Linear Simples
+
