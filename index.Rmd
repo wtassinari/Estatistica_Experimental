@@ -61,10 +61,15 @@ email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 library(cowplot)
 library(ggplot2)
 
-p1 <- ggdraw() + draw_image('figure/ufrrj.jpeg', scale = 1.5)
-p2 <- ggdraw() + draw_image('figure/agronomia.jpg', vjust = 0.5, scale = 0.9)
+# p1 <- ggdraw() + draw_image('figure/mosaico.png', vjust = -0.5, scale = 1)
+# p2 <- ggdraw() + draw_image('figure/ufrrj.jpeg', scale = 1.5)
+# p3 <- ggdraw() + draw_image('figure/agronomia.jpg', vjust = 0.5, scale = 1)
 
+p1 <- ggdraw() + draw_image('figure/ufrrj.jpeg', scale = 1.5)
+p2 <- ggdraw() + draw_image('figure/agronomia.jpg', vjust = 0.2, scale = 0.6)
 plot_grid(p1, p2)
+
+
 ```
 
 
@@ -92,6 +97,23 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 - Uma outra opção para trabalhar com o pacote estatístico R é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler)
 
+# Instalando o pacote estatístico R + sua interface gráfica RStudio
+
+- [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)
+
+\vspace{0.3mm}
+
+- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
+
+\vspace{0.3mm}
+
+- [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s)
+
+\vspace{0.3mm}
+
+- [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
+
+
 # Algumas Considerações
 
 ### IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
@@ -113,19 +135,19 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 - Testes de Hipótese
 
-- Experimento Inteiramente ao Acaso
+- Experimentos Inteiramente ao Acaso ou Casualizados (DIC)
 
-- Experimento em Bloscos ao Acaso
+- Testes de Diferença entre Médias
 
-- Associação entre duas Variáveis
+- Experimento em Blocos ao Acaso ou Casualizados (DBC)
 
-- Introdução à Regressão Linear
+- Introdução à Regressão Linear Simples
 
 
 
 # Avaliação das Disciplinas
 
-- **P1** – 21/03/2022 
+- **P1** – 23/03/2022 
 
 \vspace{0.3mm}
 
@@ -154,6 +176,8 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Bibliografias
 
+## **Bibliografia Básica**
+
 - Pimentel Gomes.  **Curso de Estatística Experimental**. EditoraNobel. 2000.
 
 \vspace{0.3mm}
@@ -165,26 +189,22 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 - Ferreira, P. V. **Estatística Experimental Aplicada à Agronomia**.  Editora EDUFAL. 2000.
 
 
-## Material para Revisão 
+## **Bibliografia para Revisão**
 
 - [Diógenes Ferreira Filho. **Apostila de Estatística Básica**, UFRRJ. 2017](https://drive.google.com/file/d/1eo4CWWqZzNibXqNK4bfUxZXzqwEgufIl/view?usp=drivesdk)
 
 
-# Instalando o pacote estatístico R + sua interface gráfica RStudio
+## **Bibliografia Complementar**
 
-- [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)
+- John Lawson. **Design and Analysis of Experiments with R**. CRC press, 2015.
 
-\vspace{0.3mm}
+- Walmes Marques Zeviani. **Manual de Planejamento e Análise de Experimentos com R**. Departamento de Estatística - UFPR [Link](http://leg.ufpr.br/~walmes/mpaer/index.html)
 
-- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
 
-\vspace{0.3mm}
 
-- [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s)
 
-\vspace{0.3mm}
 
-- [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
+
 
 
 
@@ -193,18 +213,18 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
 | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
-| **07/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   1   |      | **28/03** |     `r colFmt("Experimentos Inteiramente ao Acaso *",'blue')`   |   12  |
-| **09/02** |        Introdução à Estatística Experimental          |   2   |      | **30/03** |     Experimentos Inteiramente ao Acaso     |   13   |
-| **14/02** | `r colFmt("Introdução à Estatística Experimental *",'blue')`  |  3   |      | **04/04** |     `r colFmt("Experimentos Inteiramente ao Acaso*",'blue')`            |   14  |
-| **16/02** |        Introdução à Estatística Experimental         | 4|      | **06/04** |    Experimentos em Blocos ao Acaso  |   15  |
-| **21/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`  | 5 |      | **11/04** |  `r colFmt(" Experimentos em Blocos ao Acaso*",'blue')` |  16   |
-| **23/02** |        Intervalos de Confiança         |   6   |      | **13/04** | Experimentos em Blocos ao Acaso  |  17   |
-| **07/03** |  `r colFmt("Intervalos de Confiança*",'blue')`  |   7   |      | **18/04** | `r colFmt("Experimentos em Blocos ao Acaso*",'blue')` |  18   |
-| **09/03** | Testes de Hipótese | 8 |      | **20/04** | Int. Regressão Linear Simples |  19   |
-| **14/03** | `r colFmt("Testes de Hipótese*",'blue')`| 9 |      | **25/04** |       `r colFmt("Int. Regressão Linear Simples*",'blue')`       |  20   |
-| **16/03** |      Revisão      |   10   |      | **27/04** |      `r colFmt("**P2** **",'red')`       |     |
-| **21/03** | `r colFmt("**P1** **",'red')`  |      |      | **02/05** |       `r colFmt("**Segunda chamada** **",'red')`     |       |
-| **23/03** |        Experimentos Inteiramente ao Acaso         |  11     |      | **04/05** |     `r colFmt("**Optativa** **",'red')`   |       |
+| **09/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   1   |        | **30/03** |     `r colFmt("Experimentos Inteiramente ao Acaso *",'blue')`   |  5  |
+| **14/02** |        Introdução à Estatística Experimental          |   2   |      | **04/04** |     Testes para Diferenças entre Médias   |   6   |
+| **16/02** | `r colFmt("Introdução à Estatística Experimental *",'blue')` |  2 |  | **06/04** |     `r colFmt("Testes para Diferenças entre Médias*",'blue')` |   6  |
+| **21/02** |        Introdução à Estatística Experimental         | 2|            | **11/04** |    Experimentos em Blocos ao Acaso  |  7  |
+| **23/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`  | 2 |   | **13/04** |  `r colFmt(" Experimentos em Blocos ao Acaso*",'blue')` |  7   |
+| **07/03** |        Intervalos de Confiança         |  3   |                     | **18/04** | Introdução à Regressão Linear  |  8   |
+| **09/03** |  `r colFmt("Intervalos de Confiança*",'blue')`  |   3   |            | **20/04** | `r colFmt("Introdução à Regressão Linear*",'blue')` |  8   |
+| **14/03** | Testes de Hipótese | 4 |                                             | **25/04** |  `r colFmt("**Revisão** ",'orange')` |     |
+| **16/03** | `r colFmt("Testes de Hipótese*",'blue')`| 4 |                        | **27/04** |  `r colFmt("**P2** **",'red')`      |     |
+| **21/03** |  `r colFmt("**Revisão** ",'orange')`   |      |                    | **02/05** |  `r colFmt("**Segunda chamada**",'red')`       |     |
+| **23/03** | `r colFmt("**P1** **",'red')`  |      |                              | **04/05** |  `r colFmt("**Optativa** **",'red')`     |       |
+| **28/03** |        Experimentos Inteiramente ao Acaso         |  5     |        |           |       |       |
 
 
 ###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')`
@@ -218,7 +238,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Conteúdo das aulas
 
-## Aula Inicial - Apresentação da disciplina
+## **Aula 1:** Apresentação da disciplina
 
 - Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). 
 
@@ -227,7 +247,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Síncrona | Link para sala de aula remota|  [Em breve !!!]()  |
 
 
-## Aula sobre Introdução à Estatística Experimental
+## **Aula 2:** Introdução à Estatística Experimental
 
 - Nessas aulas, serão revisados alguns conceitos da disciplida de estatística básica e também serão introduzidos alguns conceitos a respeito da estatística experimental.
 
@@ -240,17 +260,20 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Síncrona | Link para sala de aula remota|  [Em breve !!!]()  |
 
 
-## Aula sobre Intervalos de Confiança 
+## **Aula 3:** Intervalos de Confiança 
 
 
-## Aula sobre Testes de Hipótese
+## **Aula 4:** Testes de Hipótese
 
 
-## Aula sobre Experimentos Inteiramente ao Acaso
+## **Aula 5:** Experimentos Inteiramente ao Acaso (DIC)
 
 
-## Aula sobre Experimentos em Blocos ao Acaso
+## **Aula 6:** Testes para Diferenças entre Médias
 
 
-## Aula sobre Introdução à Regressão Linear Simples
+## **Aula 7:** Experimentos em Blocos ao Acaso (DBC)
+
+
+## **Aula 8:** Introdução à Regressão Linear Simples 
 
