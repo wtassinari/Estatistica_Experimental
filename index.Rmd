@@ -191,14 +191,14 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 ## **Bibliografia para Revisão**
 
-- [Diógenes Ferreira Filho. **Apostila de Estatística Básica**, UFRRJ. 2017](https://drive.google.com/file/d/1eo4CWWqZzNibXqNK4bfUxZXzqwEgufIl/view?usp=drivesdk)
+- Diógenes Ferreira Filho. **Apostila de Estatística Básica**, UFRRJ. 2017. ([link](https://drive.google.com/file/d/1eo4CWWqZzNibXqNK4bfUxZXzqwEgufIl/view?usp=drivesdk))
 
 
 ## **Bibliografia Complementar**
 
 - John Lawson. **Design and Analysis of Experiments with R**. CRC press, 2015.
 
-- Walmes Marques Zeviani. **Manual de Planejamento e Análise de Experimentos com R**. Departamento de Estatística - UFPR [Link](http://leg.ufpr.br/~walmes/mpaer/index.html)
+- Walmes Marques Zeviani. **Manual de Planejamento e Análise de Experimentos com R**. Departamento de Estatística - UFPR. ([link](http://leg.ufpr.br/~walmes/mpaer/index.html))
 
 
 
