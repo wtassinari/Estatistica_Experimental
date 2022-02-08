@@ -244,7 +244,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Link para sala de aula remota|  [Em breve !!!]()  |
+| Síncrona | Link para sala de aula remota|  [link](meet.google.com/gbz-zkrh-yxd)  |
 
 
 ## **Aula 2:** Introdução à Estatística Experimental
