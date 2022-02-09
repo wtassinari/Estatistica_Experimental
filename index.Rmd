@@ -95,7 +95,13 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 \vspace{0.3mm}
 
-- Uma outra opção para trabalhar com o pacote estatístico R é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler)
+- Uma outra opção para trabalhar com o **pacote estatístico R** é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler)
+
+\vspace{0.3mm}
+
+- Uma outra possibilidade para trabalhar com o **pacote estatístico R** é através do [Google Colab](https://colab.research.google.com/#create=true&language=r), ou Colaboratory é um notebook interativo fornecido pelo Google para escrever e executar Python por meio de um navegador. Embora o Colab seja usado principalmente para codificação em Python, atualmente também podemos usá-lo para compilar o R. Podemos realizar análise de dados, criar modelos, avaliar esses modelos via Colab. O processamento é feito em servidores de propriedade do Google na nuvem. Precisamos apenas de um navegador e uma conexão de internet bastante estável. O Colab é uma ótima ferramenta alternativa para facilitar nosso trabalho, seja como estudante, profissional ou pesquisador. [link](https://colab.to/r)
+
+
 
 # Instalando o pacote estatístico R + sua interface gráfica RStudio
 
