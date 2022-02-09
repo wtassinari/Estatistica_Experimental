@@ -101,6 +101,13 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 - Uma outra possibilidade para trabalhar com o **pacote estatístico R** é através do [Google Colab](https://colab.research.google.com/#create=true&language=r), ou Colaboratory é um notebook interativo fornecido pelo Google para escrever e executar Python por meio de um navegador. Embora o Colab seja usado principalmente para codificação em Python, atualmente também podemos usá-lo para compilar o R. Podemos realizar análise de dados, criar modelos, avaliar esses modelos via Colab. O processamento é feito em servidores de propriedade do Google na nuvem. Precisamos apenas de um navegador e uma conexão de internet bastante estável. O Colab é uma ótima ferramenta alternativa para facilitar nosso trabalho, seja como estudante, profissional ou pesquisador. ([link](https://colab.to/r))
 
+## Sobre o pacote estatístico BioEstat 
+
+- O [*BioEstat*](https://www.mamiraua.org.br/downloads/programas/) é programa gratuito para estudantes de graduação e pós-graduação, pesquisadores e professores, com 210 aplicativos estatísticos de fácil uso pelos iniciantes, voltados sobretudo para as áreas das ciências biológicas e médicas. ([link](https://www.mamiraua.org.br/downloads/programas/))
+
+- Este programa contém o Manual (em formato de arquivo "pdf") que orienta o usuário com indicações simples e precisas para cada teste, exemplos práticos, gráficos de uso mais frequente, glossário vinculado à biometria e fórmulas estatísticas referentes aos aplicativos do BioEstat.
+
+- A licença de uso deste programa também é gratuita, sendo permitida a instalação em vários computadores. Para outras informações, envie um e-mail para  [*mamiraua@mamiraua.org.br*](mamiraua@mamiraua.org.br).
 
 
 # Instalando o pacote estatístico R + sua interface gráfica RStudio
@@ -118,6 +125,17 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 \vspace{0.3mm}
 
 - [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
+
+
+# Instalando o pacote estatístico BioEstat 
+
+- [Vídeo mostrando como instalar o pacote estatístico BioEstat](https://www.youtube.com/watch?v=VQj4VjDhwIo)
+
+\vspace{0.3mm}
+
+- [Vídeo mostrando o manuseio do pacote estatístico BioEstat](https://www.youtube.com/watch?v=nEuQosAULlU)
+
+
 
 
 # Algumas Considerações
