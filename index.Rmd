@@ -282,8 +282,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | :---------: | ------------------------------------------------------------ | :----: |
 | Assíncrona | Material didático para leitura  |  [link](https://drive.google.com/file/d/1X-n97ER9NspiWtvPk3Rr-6bTN1B22p2d/view?usp=sharing)  |
 | Síncrona | Exercício de Revisão|  [link](https://drive.google.com/file/d/1Da5QiGMChzhYnxcZX03fUljxLxfavYqD/view?usp=sharing)  |
-| Síncrona | Link para sala de aula remota (aula 14/02) |  [link](meet.google.com/gqj-xzsn-omz)  |
+| Síncrona | ***Link para sala de aula remota (aula 14/02) |  [meet.google.com/gqj-xzsn-omz](meet.google.com/gqj-xzsn-omz)  |
 
+`r colFmt(" ***Importante: Para ter acesso a sala de aula remota, copie e cole o link na barra de endereços do navegador que será utilizado.",'red')`
 
 ## **Aula 3:** Intervalos de Confiança 
 
