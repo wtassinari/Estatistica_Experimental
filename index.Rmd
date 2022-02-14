@@ -238,7 +238,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
 | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
 | **09/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   1   |        | **30/03** |     `r colFmt("Experimentos Inteiramente ao Acaso *",'blue')`   |  5  |
-| **14/02** |        Introdução à Estatística Experimental          |   2   |      | **04/04** |     Testes para Diferenças entre Médias   |   6   |
+| **14/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`         |   2   |      | **04/04** |     Testes para Diferenças entre Médias   |   6   |
 | **16/02** | `r colFmt("Introdução à Estatística Experimental *",'blue')` |  2 |  | **06/04** |     `r colFmt("Testes para Diferenças entre Médias*",'blue')` |   6  |
 | **21/02** |        Introdução à Estatística Experimental         | 2|            | **11/04** |    Experimentos em Blocos ao Acaso  |  7  |
 | **23/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`  | 2 |   | **13/04** |  `r colFmt(" Experimentos em Blocos ao Acaso*",'blue')` |  7   |
@@ -280,8 +280,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| Assíncrona | Aterial didático para leitura  |  [link](https://drive.google.com/file/d/1X-n97ER9NspiWtvPk3Rr-6bTN1B22p2d/view?usp=sharing)  |
-| Síncrona | Link para sala de aula remota|  [Em breve !!!]()  |
+| Assíncrona | Material didático para leitura  |  [link](https://drive.google.com/file/d/1X-n97ER9NspiWtvPk3Rr-6bTN1B22p2d/view?usp=sharing)  |
+| Síncrona | Exercício de Revisão|  [link](https://drive.google.com/file/d/1Da5QiGMChzhYnxcZX03fUljxLxfavYqD/view?usp=sharing)  |
+| Síncrona | Link para sala de aula remota (aula 14/02) |  [link](meet.google.com/gqj-xzsn-omz)  |
 
 
 ## **Aula 3:** Intervalos de Confiança 
