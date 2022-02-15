@@ -228,10 +228,6 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 
 
-
-
-
-
 # Cronograma do Curso
 
 
@@ -262,7 +258,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Conteúdo das aulas
 
-## **Aula 1:** Apresentação da disciplina
+## Apresentação da disciplina
 
 - Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). 
 
@@ -271,35 +267,45 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Síncrona | Link para sala de aula remota|  [link](meet.google.com/gbz-zkrh-yxd)  |
 
 
-## **Aula 2:** Introdução à Estatística Experimental
+## Introdução à Estatística Experimental
 
 - Nessas aulas, serão revisados alguns conceitos da disciplida de estatística básica e também serão introduzidos alguns conceitos a respeito da estatística experimental.
 
 - Todo o conteúdo dessas aulas, serão abordados de forma sincrona e assíncrona (material de leitura e  exercícios). 
 
+### Aula do dia 14/02/2022
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
 | Assíncrona | Material didático para leitura  |  [link](https://drive.google.com/file/d/1X-n97ER9NspiWtvPk3Rr-6bTN1B22p2d/view?usp=sharing)  |
-| Síncrona | Exercício de Revisão|  [link](https://drive.google.com/file/d/1Da5QiGMChzhYnxcZX03fUljxLxfavYqD/view?usp=sharing)  |
+| Síncrona | Exercícios de Revisão|  [link](https://drive.google.com/file/d/1Da5QiGMChzhYnxcZX03fUljxLxfavYqD/view?usp=sharing)  |
 | Síncrona | ***Link para sala de aula remota (aula 14/02) |  [meet.google.com/gqj-xzsn-omz](meet.google.com/gqj-xzsn-omz)  |
+
+### Aula do dia 16/02/2022
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Assíncrona | Tabela da Distribuição Binomial  |  [link](https://drive.google.com/file/d/1BWrbRl6btC_tlmtHL38bBE6kVQOMTk30/view?usp=sharing)  |
+| Assíncrona | Tabela da Distribuição Normal  |  [link](https://drive.google.com/file/d/1476g2L2LUcx6rT124C-Wx1hqQg4Bb6yL/view?usp=sharing)  |
+| Assíncrona | Outras tabelas  |  [link](https://drive.google.com/file/d/15DvFsi1BCxLF7LDVD-6H0vk7WA51pqvg/view?usp=sharing)  |
+| Síncrona | ***Link para sala de aula remota (aula 17/02) |  [meet.google.com/xgd-vmuu-htb](meet.google.com/xgd-vmuu-htb)  |
 
 `r colFmt(" ***Importante: Para ter acesso a sala de aula remota, copie e cole o link na barra de endereços do navegador que será utilizado.",'red')`
 
-## **Aula 3:** Intervalos de Confiança 
+## Intervalos de Confiança 
 
 
-## **Aula 4:** Testes de Hipótese
+## Testes de Hipótese
 
 
-## **Aula 5:** Experimentos Inteiramente ao Acaso (DIC)
+## Experimentos Inteiramente ao Acaso (DIC)
 
 
-## **Aula 6:** Testes para Diferenças entre Médias
+## Testes para Diferenças entre Médias
 
 
-## **Aula 7:** Experimentos em Blocos ao Acaso (DBC)
+## Experimentos em Blocos ao Acaso (DBC)
 
 
-## **Aula 8:** Introdução à Regressão Linear Simples 
+## Introdução à Regressão Linear Simples 
 
