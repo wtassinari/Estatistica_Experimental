@@ -287,6 +287,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | :---------: | ------------------------------------------------------------ | :----: |
 | Assíncrona | Tabela da Distribuição Binomial  |  [link](https://drive.google.com/file/d/1BWrbRl6btC_tlmtHL38bBE6kVQOMTk30/view?usp=sharing)  |
 | Assíncrona | Tabela da Distribuição Normal  |  [link](https://drive.google.com/file/d/1476g2L2LUcx6rT124C-Wx1hqQg4Bb6yL/view?usp=sharing)  |
+| Assíncrona | Tabela da Distribuição t  |  [link](https://drive.google.com/file/d/1af6fb6C-wZVIBAZhUZ347_igvjvSIExs/view?usp=sharing)  |
+| Assíncrona | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
+| Assíncrona | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
 | Assíncrona | Outras tabelas  |  [link](https://drive.google.com/file/d/15DvFsi1BCxLF7LDVD-6H0vk7WA51pqvg/view?usp=sharing)  |
 | Síncrona | ***Link para sala de aula remota (aula 17/02) |  [meet.google.com/xgd-vmuu-htb](meet.google.com/xgd-vmuu-htb)  |
 
