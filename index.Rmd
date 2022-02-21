@@ -264,7 +264,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Link para sala de aula remota|  [link](meet.google.com/gbz-zkrh-yxd)  |
+| Síncrona | Link para sala de aula remota|  [link]()  |
 
 
 ## Introdução à Estatística Experimental
@@ -277,9 +277,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| Assíncrona | Material didático para leitura  |  [link](https://drive.google.com/file/d/1X-n97ER9NspiWtvPk3Rr-6bTN1B22p2d/view?usp=sharing)  |
+| Assíncrona | Material didático para leitura  |  [link](https://drive.google.com/file/d/1Ixp5yrJv_oOiR6Jz1qSS2e9jjNFle-S4/view?usp=sharing)  |
 | Síncrona | Exercícios de Revisão|  [link](https://drive.google.com/file/d/1Da5QiGMChzhYnxcZX03fUljxLxfavYqD/view?usp=sharing)  |
-| Síncrona | ***Link para sala de aula remota (aula 14/02) |  [meet.google.com/gqj-xzsn-omz](meet.google.com/gqj-xzsn-omz)  |
+| Síncrona | ***Link para sala de aula remota (aula 14/02) |  [link]()  |
 
 ### Aula do dia 16/02/2022
 
@@ -291,7 +291,13 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
 | Assíncrona | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
 | Assíncrona | Outras tabelas  |  [link](https://drive.google.com/file/d/15DvFsi1BCxLF7LDVD-6H0vk7WA51pqvg/view?usp=sharing)  |
-| Síncrona | ***Link para sala de aula remota (aula 17/02) |  [meet.google.com/xgd-vmuu-htb](meet.google.com/xgd-vmuu-htb)  |
+| Síncrona | ***Link para sala de aula remota (aula 17/02) |  [link]()  |
+
+### Aula do dia 21/02/2022
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Síncrona | ***Link para sala de aula remota (aula 21/02) |  [meet.google.com/xgd-vmuu-htb](meet.google.com/sgq-ctrc-iii)  |
 
 `r colFmt(" ***Importante: Para ter acesso a sala de aula remota, copie e cole o link na barra de endereços do navegador que será utilizado.",'red')`
 
