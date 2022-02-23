@@ -269,7 +269,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 ## Introdução à Estatística Experimental
 
-- Nessas aulas, serão revisados alguns conceitos da disciplida de estatística básica e também serão introduzidos alguns conceitos a respeito da estatística experimental.
+- Nessas aulas, serão revisados alguns conceitos da disciplida de estatística básica e também serão introduzidos alguns conceitos a respeito da estatística experimental, será feita uma revisão nos principais modelos de distribuição de probabilidade, será abordado alguns tópicos a respeito de inferência estatística, tais como: estimação pontual e intervalar e testes de hipóteses.
 
 - Todo o conteúdo dessas aulas, serão abordados de forma sincrona e assíncrona (material de leitura e  exercícios). 
 
@@ -299,12 +299,14 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | :---------: | ------------------------------------------------------------ | :----: |
 | Síncrona | ***Link para sala de aula remota (aula 21/02) |  [meet.google.com/xgd-vmuu-htb](meet.google.com/sgq-ctrc-iii)  |
 
+### Aula do dia 23/02/2022
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Síncrona  | Resolução do exercício da aula do dia 14/02/2022|  [link](Pratica/Exercicio_aula2_script.html)  |
+| Síncrona | ***Link para sala de aula remota (aula 23/02) |  [meet.google.com/xgd-vmuu-htb](meet.google.com/omw-knux-hhi)  |
+
 `r colFmt(" ***Importante: Para ter acesso a sala de aula remota, copie e cole o link na barra de endereços do navegador que será utilizado.",'red')`
-
-## Intervalos de Confiança 
-
-
-## Testes de Hipótese
 
 
 ## Experimentos Inteiramente ao Acaso (DIC)
