@@ -306,6 +306,15 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Síncrona  | Resolução do exercício da aula do dia 14/02/2022|  [link](Pratica/Exercicio_aula2_script.html)  |
 | Síncrona | ***Link para sala de aula remota (aula 23/02) |  [meet.google.com/xgd-vmuu-htb](meet.google.com/omw-knux-hhi)  |
 
+### Aula do dia 02/03/2022
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Síncrona  | app: Probability Distibutions (sugestão)|  -  |
+| Síncrona | ***Link para sala de aula remota (aula 02/03) |  [meet.google.com/owp-yskw-bsz](meet.google.com/owp-yskw-bsz)  |
+
+
+
 `r colFmt(" ***Importante: Para ter acesso a sala de aula remota, copie e cole o link na barra de endereços do navegador que será utilizado.",'red')`
 
 
