@@ -233,18 +233,18 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
 | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
-| **09/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   1   |        | **30/03** |     `r colFmt("Experimentos Inteiramente ao Acaso *",'blue')`   |  5  |
-| **14/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`         |   2   |      | **04/04** |     Testes para Diferenças entre Médias   |   6   |
-| **16/02** | `r colFmt("Introdução à Estatística Experimental *",'blue')` |  2 |  | **06/04** |     `r colFmt("Testes para Diferenças entre Médias*",'blue')` |   6  |
-| **21/02** |        Introdução à Estatística Experimental         | 2|            | **11/04** |    Experimentos em Blocos ao Acaso  |  7  |
-| **23/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`  | 2 |   | **13/04** |  `r colFmt(" Experimentos em Blocos ao Acaso*",'blue')` |  7   |
-| **07/03** |        Intervalos de Confiança         |  3   |                     | **18/04** | Introdução à Regressão Linear  |  8   |
-| **09/03** |  `r colFmt("Intervalos de Confiança*",'blue')`  |   3   |            | **20/04** | `r colFmt("Introdução à Regressão Linear*",'blue')` |  8   |
-| **14/03** | Testes de Hipótese | 4 |                                             | **25/04** |  `r colFmt("**Revisão** ",'orange')` |     |
+| **09/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   1   |        | **30/03** |     Análise de Variância (ANOVA)   |  5  |
+| **14/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`         |   2   |      | **04/04** |    Experimentos Inteiramente ao Acaso (DIC)   |   6   |
+| **16/02** | `r colFmt("Introdução à Estatística Experimental *",'blue')` |  2 |  | **06/04** |     Testes para Diferenças entre Médias |   6  |
+| **21/02** |        Introdução à Estatística Experimental         | 2|            | **11/04** |    Testes para Diferenças entre Médias  |  7  |
+| **23/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`  | 2 |   | **13/04** |   Experimentos em Blocos ao Acaso   |  7   |
+| **07/03** |        Intervalos de Confiança         |  3   |                     | **18/04** |  Experimentos em Blocos ao Acaso  |  8   |
+| **09/03** |  `r colFmt("Intervalos de Confiança*",'blue')`  |   3   |            | **20/04** | Introdução à Regressão Linear Simples |  8   |
+| **14/03** | Testes de Hipótese | 4 |                                             | **25/04** | Introdução à Regressão Linear Simples |     |
 | **16/03** | `r colFmt("Testes de Hipótese*",'blue')`| 4 |                        | **27/04** |  `r colFmt("**P2** **",'red')`      |     |
 | **21/03** |  `r colFmt("**Revisão** ",'orange')`   |      |                    | **02/05** |  `r colFmt("**Segunda chamada**",'red')`       |     |
 | **23/03** | `r colFmt("**P1** **",'red')`  |      |                              | **04/05** |  `r colFmt("**Optativa** **",'red')`     |       |
-| **28/03** |        Experimentos Inteiramente ao Acaso         |  5     |        |           |       |       |
+| **28/03** |       Introdução à Extatística Experimental        |  5     |        |           |       |       |
 
 
 ###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')`
@@ -317,6 +317,18 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 `r colFmt(" ***Importante: Para ter acesso a sala de aula remota, copie e cole o link na barra de endereços do navegador que será utilizado.",'red')`
 
+
+## Aula do dia 28/03 - Introdução à Extatística Experimental
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| síncrona | Slides da Aula de Introdução à Extatística Experimental  |  [link](https://drive.google.com/file/d/1oRjEW1pTJyWAqMZVyyFbC0S8SiHWI1Gl/view?usp=sharing)  |
+
+## Aula do dia 30/03 - Análise de Variância (ANOVA)
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Assíncrona | Slides da Aula de ANOVA  |  [link](https://drive.google.com/file/d/1c42MAGOQgTkQv6eJd_KhvasMj469qNr9/view?usp=sharing)  |
 
 ## Experimentos Inteiramente ao Acaso (DIC)
 
