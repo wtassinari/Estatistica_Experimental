@@ -318,11 +318,11 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 `r colFmt(" ***Importante: Para ter acesso a sala de aula remota, copie e cole o link na barra de endereços do navegador que será utilizado.",'red')`
 
 
-## Aula do dia 28/03 - Introdução à Extatística Experimental
+## Aula do dia 28/03 - Introdução à Experimentação
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| síncrona | Slides da Aula de Introdução à Extatística Experimental  |  [link](https://drive.google.com/file/d/1oRjEW1pTJyWAqMZVyyFbC0S8SiHWI1Gl/view?usp=sharing)  |
+| síncrona | Slides da Aula de Introdução à Experimentação  |  [link](https://drive.google.com/file/d/1oRjEW1pTJyWAqMZVyyFbC0S8SiHWI1Gl/view?usp=sharing)  |
 
 ## Aula do dia 30/03 - Análise de Variância (ANOVA)
 
