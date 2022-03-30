@@ -244,7 +244,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | **16/03** | `r colFmt("Testes de Hipótese*",'blue')`| 4 |                        | **27/04** |  `r colFmt("**P2** **",'red')`      |     |
 | **21/03** |  `r colFmt("**Revisão** ",'orange')`   |      |                    | **02/05** |  `r colFmt("**Segunda chamada**",'red')`       |     |
 | **23/03** | `r colFmt("**P1** **",'red')`  |      |                              | **04/05** |  `r colFmt("**Optativa** **",'red')`     |       |
-| **28/03** |       Introdução à Extatística Experimental        |  5     |        |           |       |       |
+| **28/03** |       Introdução à Experimentação        |  5     |        |           |       |       |
 
 
 ###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')`
@@ -322,18 +322,34 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| síncrona | Slides da Aula de Introdução à Experimentação  |  [link](https://drive.google.com/file/d/1oRjEW1pTJyWAqMZVyyFbC0S8SiHWI1Gl/view?usp=sharing)  |
+| Síncrona | Slides da Aula de Introdução à Experimentação  |  [link](https://drive.google.com/file/d/1oRjEW1pTJyWAqMZVyyFbC0S8SiHWI1Gl/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição t  |  [link](https://drive.google.com/file/d/1af6fb6C-wZVIBAZhUZ347_igvjvSIExs/view?usp=sharing)  |
 
 ## Aula do dia 30/03 - Análise de Variância (ANOVA)
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| Assíncrona | Slides da Aula de ANOVA  |  [link](https://drive.google.com/file/d/1c42MAGOQgTkQv6eJd_KhvasMj469qNr9/view?usp=sharing)  |
+| Síncrona | Slides da Aula de Análise de Variância (ANOVA)  |  [link](https://drive.google.com/file/d/1c42MAGOQgTkQv6eJd_KhvasMj469qNr9/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
 
-## Experimentos Inteiramente ao Acaso (DIC)
+
+## Aula do dia 04/04 - Experimentos Inteiramente ao Acaso (DIC)
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Síncrona | Slides da Aula sobre Experimentos Inteiramente ao Acaso (DIC)  |  [link](https://drive.google.com/file/d/18Fc1OrgZAA_7Ly_zhWaN92ZZY7aMOFmW/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
 
 
 ## Testes para Diferenças entre Médias
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Síncrona | Slides da Aula sobre os Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1x_Jtb-kAK6gZHDX35fprLcsyB1mZ1-eb/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
+| Assíncrona | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
+| Assíncrona | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  |
 
 
 ## Experimentos em Blocos ao Acaso (DBC)
