@@ -339,10 +339,11 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
 | Síncrona | Slides da Aula sobre Experimentos Inteiramente ao Acaso (DIC)  |  [link](https://drive.google.com/file/d/18Fc1OrgZAA_7Ly_zhWaN92ZZY7aMOFmW/view?usp=sharing)  |
+| Lista | Lista de Exercícios sobre DIC e Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1Qy4EVKWYWMkSdEhb-FQZ9LOntmVsCBUS/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
 
 
-## Testes para Diferenças entre Médias
+## Aula dos dias 06/04 e 11/04 - Testes para Diferenças entre Médias
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
