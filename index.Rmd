@@ -349,12 +349,25 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | :---------: | ------------------------------------------------------------ | :----: |
 | Síncrona | Slides da Aula sobre os Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1x_Jtb-kAK6gZHDX35fprLcsyB1mZ1-eb/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
-| Assíncrona | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
-| Assíncrona | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  |
+| Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
+| Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  |
 
 
-## Experimentos em Blocos ao Acaso (DBC)
+## Aula dos dias 13/04 e 18/04 - Experimentos em Blocos ao Acaso (DBC)
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Síncrona | Slides da Aula sobre os Experimentos em Blocos ao Acaso (DBC)  |  [link](https://drive.google.com/file/d/1UThlmA04Nhqy1jLcFzTN_Rk27zMFjipc/view?usp=sharing)  |
+| Lista | Lista de Exercícios sobre DBC  |  [link](https://drive.google.com/file/d/18HqIjSEM5YElolWv_e9Is44UjTiBmNSa/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
+| Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
+| Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  |
+
+## Aula dos dias 20/04 e 25/04 - Introdução à Regressão Linear Simples 
 
 
-## Introdução à Regressão Linear Simples 
-
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Síncrona | Slides da Aula sobre Regressão Linear Simples  |  [link](https://drive.google.com/file/d/1iHTbXqjSfWrapsbJDvscq4Jzd9Mw5M1N/view?usp=sharing)  |
+| Lista | Lista de Exercícios sobre Regressão Linear Simples  |  [link](https://drive.google.com/file/d/1K4TS6CXvIZuWfRjo43TT4WyBxhsPcrCg/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
