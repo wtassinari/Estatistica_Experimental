@@ -48,9 +48,9 @@ colFmt <- function(x,color) {
 
 ```
 
-**[Prof. Antônio Carlos Gonçalves (DEMAT/UFRRJ)]()**
+<!-- **[Prof. Antônio Carlos Gonçalves (DEMAT/UFRRJ)]()** -->
 
-email: [*antoniogon@ufrrj.br*](antoniogon@ufrrj.br)
+<!-- email: [*antoniogon@ufrrj.br*](antoniogon@ufrrj.br) -->
 
 **[Prof. Wagner Tassinari (DEMAT/UFRRJ)](https://institucional.ufrrj.br/ruralpesquisa/wagner-de-souza-tassinari/)**
 
@@ -73,7 +73,7 @@ plot_grid(p1, p2)
 ```
 
 
-Esta página representa o repositório do conteúdo das disciplinas de Estatística Experimental e Bioestatística - 2022-1 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo das disciplinas de Estatística Experimental e Bioestatística - 2024-2 (DEMAT/UFRRJ)
 
 # Informações Gerais
 
@@ -81,9 +81,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 - Introduzir os conceitos de experimentação estatística dando maior ênfase as aplicações nas diversas áreas.
 
-## Formato das Disciplinas 
+<!-- ## Formato das Disciplinas  -->
 
-- O curso será composto de atividades **síncronas** (são atividades baseadas em encontros remotos professor-alunos de forma on line) e de atividades **assíncronas** (são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e etc). As aulas síncronas serão feitas via plataforma *Google Meet* durante o horário original da disciplina. Os dias das aulas síncronas estão indicadas na tabela abaixo contendo o cronograma do curso. O link para o acesso as aulas síncronas, estará disponível no sistema SIGAA/UFRRJ no tópico do primeiro dia de aula.
+<!-- - O curso será composto de atividades **síncronas** (são atividades baseadas em encontros remotos professor-alunos de forma on line) e de atividades **assíncronas** (são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e etc). As aulas síncronas serão feitas via plataforma *Google Meet* durante o horário original da disciplina. Os dias das aulas síncronas estão indicadas na tabela abaixo contendo o cronograma do curso. O link para o acesso as aulas síncronas, estará disponível no sistema SIGAA/UFRRJ no tópico do primeiro dia de aula. -->
 
 ## Sobre o pacote estatístico R 
 
@@ -93,21 +93,21 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 - Uma das formas de utilizar a linguagem R é através da interface gráfica **RStudio** ([link](https://rstudio.com/products/rstudio/)), que é uma IDE ou ambiente de desenvolvimento integrado, para o pacote R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para trabalhar com o R. Essa plataforma é extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar.
 
+<!-- \vspace{0.3mm} -->
+
+<!-- - Uma outra opção para trabalhar com o **pacote estatístico R** é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler) -->
+
 \vspace{0.3mm}
 
-- Uma outra opção para trabalhar com o **pacote estatístico R** é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler)
+- Uma outra possibilidade para trabalhar com o **pacote estatístico R** é através do [Google Colab](https://colab.research.google.com/#create=true&language=r), ou Colaboratory é um notebook interativo fornecido pelo Google para escrever e executar Python por meio de um navegador. Embora o Colab seja usado principalmente para codificação em Python, atualmente também podemos usá-lo para compilar o R. Podemos realizar análise de dados, criar modelos, avaliar esses modelos via Colab. O processamento é feito em servidores de propriedade do Google na nuvem. Precisamos apenas de um navegador e uma conexão de internet bastante estável. O Colab é uma ótima ferramenta alternativa para facilitar nosso trabalho, seja como estudante, profissional ou pesquisador. 
 
-\vspace{0.3mm}
+<!-- ## Sobre o pacote estatístico BioEstat  -->
 
-- Uma outra possibilidade para trabalhar com o **pacote estatístico R** é através do [Google Colab](https://colab.research.google.com/#create=true&language=r), ou Colaboratory é um notebook interativo fornecido pelo Google para escrever e executar Python por meio de um navegador. Embora o Colab seja usado principalmente para codificação em Python, atualmente também podemos usá-lo para compilar o R. Podemos realizar análise de dados, criar modelos, avaliar esses modelos via Colab. O processamento é feito em servidores de propriedade do Google na nuvem. Precisamos apenas de um navegador e uma conexão de internet bastante estável. O Colab é uma ótima ferramenta alternativa para facilitar nosso trabalho, seja como estudante, profissional ou pesquisador. ([link](https://colab.to/r))
+<!-- - O [*BioEstat*](https://www.mamiraua.org.br/downloads/programas/) é programa gratuito para estudantes de graduação e pós-graduação, pesquisadores e professores, com 210 aplicativos estatísticos de fácil uso pelos iniciantes, voltados sobretudo para as áreas das ciências biológicas e médicas. ([link](https://www.mamiraua.org.br/downloads/programas/)) -->
 
-## Sobre o pacote estatístico BioEstat 
+<!-- - Este programa contém o Manual (em formato de arquivo "pdf") que orienta o usuário com indicações simples e precisas para cada teste, exemplos práticos, gráficos de uso mais frequente, glossário vinculado à biometria e fórmulas estatísticas referentes aos aplicativos do BioEstat. -->
 
-- O [*BioEstat*](https://www.mamiraua.org.br/downloads/programas/) é programa gratuito para estudantes de graduação e pós-graduação, pesquisadores e professores, com 210 aplicativos estatísticos de fácil uso pelos iniciantes, voltados sobretudo para as áreas das ciências biológicas e médicas. ([link](https://www.mamiraua.org.br/downloads/programas/))
-
-- Este programa contém o Manual (em formato de arquivo "pdf") que orienta o usuário com indicações simples e precisas para cada teste, exemplos práticos, gráficos de uso mais frequente, glossário vinculado à biometria e fórmulas estatísticas referentes aos aplicativos do BioEstat.
-
-- A licença de uso deste programa também é gratuita, sendo permitida a instalação em vários computadores. Para outras informações, envie um e-mail para  [*mamiraua@mamiraua.org.br*](mamiraua@mamiraua.org.br).
+<!-- - A licença de uso deste programa também é gratuita, sendo permitida a instalação em vários computadores. Para outras informações, envie um e-mail para  [*mamiraua@mamiraua.org.br*](mamiraua@mamiraua.org.br). -->
 
 
 # Instalando o pacote estatístico R + sua interface gráfica RStudio
@@ -126,28 +126,33 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 - [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
 
-
-# Instalando o pacote estatístico BioEstat 
-
-- [Vídeo mostrando como instalar o pacote estatístico BioEstat](https://www.youtube.com/watch?v=VQj4VjDhwIo)
-
 \vspace{0.3mm}
 
-- [Vídeo mostrando o manuseio do pacote estatístico BioEstat](https://www.youtube.com/watch?v=nEuQosAULlU)
+- [Video mostrando utilizar o ambiente Google Colab com o R](https://www.youtube.com/watch?v=WKtcrvd_2-0)
+
+
+
+<!-- # Instalando o pacote estatístico BioEstat  -->
+
+<!-- - [Vídeo mostrando como instalar o pacote estatístico BioEstat](https://www.youtube.com/watch?v=VQj4VjDhwIo) -->
+
+<!-- \vspace{0.3mm} -->
+
+<!-- - [Vídeo mostrando o manuseio do pacote estatístico BioEstat](https://www.youtube.com/watch?v=nEuQosAULlU) -->
 
 
 
 
 # Algumas Considerações
 
-### IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
+<!-- ### IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização. -->
 
 
-*Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as atividades de ensino nesse período em decorrência da pandemia de COVID-19:*
+<!-- *Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as atividades de ensino nesse período em decorrência da pandemia de COVID-19:* -->
 
-*Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relação à transmissão pública, gravação e compartilhamento das atividades...*
+<!-- *Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relação à transmissão pública, gravação e compartilhamento das atividades...* -->
 
-*Art. 31 § 1o - Para as atividades remotas síncronas haverá aferição de assiduidade...*
+<!-- *Art. 31 § 1o - Para as atividades remotas síncronas haverá aferição de assiduidade...* -->
 
 
 # Programa das Disciplinas
@@ -171,19 +176,19 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- **P1** – 23/03/2022 
+- **P1** – ???
 
 \vspace{0.3mm}
 
-- **P2** – 27/04/2022
+- **P2** – ???
 
 \vspace{0.3mm}
 
-- **Segunda Chamada** – 02/05/2022
+- **Segunda Chamada** – ???
 
 \vspace{0.3mm}
 
-- **Optativa** – 04/05/2022
+- **Optativa** – ???
 
 \vspace{0.3mm}
 
@@ -228,28 +233,28 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 
 
-# Cronograma do Curso
+<!-- # Cronograma do Curso -->
 
 
-|   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
-| :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
-| **09/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   1   |        | **30/03** |     Análise de Variância (ANOVA)   |  5  |
-| **14/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`         |   2   |      | **04/04** |    Experimentos Inteiramente ao Acaso (DIC)   |   6   |
-| **16/02** | `r colFmt("Introdução à Estatística Experimental *",'blue')` |  2 |  | **06/04** |     Testes para Diferenças entre Médias |   6  |
-| **21/02** |        Introdução à Estatística Experimental         | 2|            | **11/04** |    Testes para Diferenças entre Médias  |  7  |
-| **23/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`  | 2 |   | **13/04** |   Experimentos em Blocos ao Acaso   |  7   |
-| **07/03** |        Intervalos de Confiança         |  3   |                     | **18/04** |  Experimentos em Blocos ao Acaso  |  8   |
-| **09/03** |  `r colFmt("Intervalos de Confiança*",'blue')`  |   3   |            | **20/04** | Introdução à Regressão Linear Simples |  8   |
-| **14/03** | Testes de Hipótese | 4 |                                             | **25/04** | Introdução à Regressão Linear Simples |     |
-| **16/03** | `r colFmt("Testes de Hipótese*",'blue')`| 4 |                        | **27/04** |  `r colFmt("**P2** **",'red')`      |     |
-| **21/03** |  `r colFmt("**Revisão** ",'orange')`   |      |                    | **02/05** |  `r colFmt("**Segunda chamada**",'red')`       |     |
-| **23/03** | `r colFmt("**P1** **",'red')`  |      |                              | **04/05** |  `r colFmt("**Optativa** **",'red')`     |       |
-| **28/03** |       Introdução à Experimentação        |  5     |        |           |       |       |
+<!-- |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas | -->
+<!-- | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: | -->
+<!-- | **09/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   1   |        | **30/03** |     Análise de Variância (ANOVA)   |  5  | -->
+<!-- | **14/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`         |   2   |      | **04/04** |    Experimentos Inteiramente ao Acaso (DIC)   |   6   | -->
+<!-- | **16/02** | `r colFmt("Introdução à Estatística Experimental *",'blue')` |  2 |  | **06/04** |     Testes para Diferenças entre Médias |   6  | -->
+<!-- | **21/02** |        Introdução à Estatística Experimental         | 2|            | **11/04** |    Testes para Diferenças entre Médias  |  7  | -->
+<!-- | **23/02** | `r colFmt("Introdução à Estatística Experimental*",'blue')`  | 2 |   | **13/04** |   Experimentos em Blocos ao Acaso   |  7   | -->
+<!-- | **07/03** |        Intervalos de Confiança         |  3   |                     | **18/04** |  Experimentos em Blocos ao Acaso  |  8   | -->
+<!-- | **09/03** |  `r colFmt("Intervalos de Confiança*",'blue')`  |   3   |            | **20/04** | Introdução à Regressão Linear Simples |  8   | -->
+<!-- | **14/03** | Testes de Hipótese | 4 |                                             | **25/04** | Introdução à Regressão Linear Simples |     | -->
+<!-- | **16/03** | `r colFmt("Testes de Hipótese*",'blue')`| 4 |                        | **27/04** |  `r colFmt("**P2** **",'red')`      |     | -->
+<!-- | **21/03** |  `r colFmt("**Revisão** ",'orange')`   |      |                    | **02/05** |  `r colFmt("**Segunda chamada**",'red')`       |     | -->
+<!-- | **23/03** | `r colFmt("**P1** **",'red')`  |      |                              | **04/05** |  `r colFmt("**Optativa** **",'red')`     |       | -->
+<!-- | **28/03** |       Introdução à Experimentação        |  5     |        |           |       |       | -->
 
 
-###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')`
+<!-- ###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')` -->
 
-###### `r colFmt("  **As avaliações estão escritas na cor vermelha marcadas com dois asterísticos.",'red')`
+<!-- ###### `r colFmt("  **As avaliações estão escritas na cor vermelha marcadas com dois asterísticos.",'red')` -->
 
 <!-- ###### `r colFmt("  ***Aulas de revisão (aulas facultativas).",'orange')` -->
 
@@ -260,114 +265,132 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 ## Apresentação da disciplina
 
-- Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). 
+<!-- - Nessa aula será apresentado conteúdo e dinâmica das aulas.  -->
 
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Link para sala de aula remota|  [link]()  |
+<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
+<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
+<!-- | Síncrona | Link para sala de aula remota|  [link]()  | -->
+
+
+<!-- ## Introdução à Estatística Experimental -->
+
+<!-- - Nessas aulas, serão revisados alguns conceitos da disciplida de estatística básica e também serão introduzidos alguns conceitos a respeito da estatística experimental, será feita uma revisão nos principais modelos de distribuição de probabilidade, será abordado alguns tópicos a respeito de inferência estatística, tais como: estimação pontual e intervalar e testes de hipóteses. -->
+
+<!-- - Todo o conteúdo dessas aulas, serão abordados de forma sincrona e assíncrona (material de leitura e  exercícios).  -->
+
+<!-- ### Aula do dia 14/02/2022 -->
+
+<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
+<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
+<!-- | Assíncrona | Material didático para leitura  |  [link](https://drive.google.com/file/d/1Ixp5yrJv_oOiR6Jz1qSS2e9jjNFle-S4/view?usp=sharing)  | -->
+<!-- | Síncrona | Exercícios de Revisão|  [link](https://drive.google.com/file/d/1Da5QiGMChzhYnxcZX03fUljxLxfavYqD/view?usp=sharing)  | -->
+<!-- | Síncrona | ***Link para sala de aula remota (aula 14/02) |  [link]()  | -->
+
+<!-- ### Aula do dia 16/02/2022 -->
+
+<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
+<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
+<!-- | Assíncrona | Tabela da Distribuição Binomial  |  [link](https://drive.google.com/file/d/1BWrbRl6btC_tlmtHL38bBE6kVQOMTk30/view?usp=sharing)  | -->
+<!-- | Assíncrona | Tabela da Distribuição Normal  |  [link](https://drive.google.com/file/d/1476g2L2LUcx6rT124C-Wx1hqQg4Bb6yL/view?usp=sharing)  | -->
+<!-- | Assíncrona | Tabela da Distribuição t  |  [link](https://drive.google.com/file/d/1af6fb6C-wZVIBAZhUZ347_igvjvSIExs/view?usp=sharing)  | -->
+<!-- | Assíncrona | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
+<!-- | Assíncrona | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  | -->
+<!-- | Assíncrona | Outras tabelas  |  [link](https://drive.google.com/file/d/15DvFsi1BCxLF7LDVD-6H0vk7WA51pqvg/view?usp=sharing)  | -->
+<!-- | Síncrona | ***Link para sala de aula remota (aula 17/02) |  [link]()  | -->
+
+<!-- ### Aula do dia 21/02/2022 -->
+
+<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
+<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
+<!-- | Síncrona | ***Link para sala de aula remota (aula 21/02) |  [meet.google.com/xgd-vmuu-htb](meet.google.com/sgq-ctrc-iii)  | -->
+
+<!-- ### Aula do dia 23/02/2022 -->
+
+<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
+<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
+<!-- | Síncrona  | Resolução do exercício da aula do dia 14/02/2022|  [link](Pratica/Exercicio_aula2_script.html)  | -->
+<!-- | Síncrona | ***Link para sala de aula remota (aula 23/02) |  [meet.google.com/xgd-vmuu-htb](meet.google.com/omw-knux-hhi)  | -->
+
+<!-- ### Aula do dia 02/03/2022 -->
+
+<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
+<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
+<!-- | Síncrona  | app: Probability Distibutions (sugestão)|  -  | -->
+<!-- | Síncrona | ***Link para sala de aula remota (aula 02/03) |  [meet.google.com/owp-yskw-bsz](meet.google.com/owp-yskw-bsz)  | -->
+
+
+
+<!-- `r colFmt(" ***Importante: Para ter acesso a sala de aula remota, copie e cole o link na barra de endereços do navegador que será utilizado.",'red')` -->
 
 
 ## Introdução à Estatística Experimental
 
-- Nessas aulas, serão revisados alguns conceitos da disciplida de estatística básica e também serão introduzidos alguns conceitos a respeito da estatística experimental, será feita uma revisão nos principais modelos de distribuição de probabilidade, será abordado alguns tópicos a respeito de inferência estatística, tais como: estimação pontual e intervalar e testes de hipóteses.
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Síncrona | Slides da Aula de Introdução à Estatística Experimental  |  [link](https://drive.google.com/file/d/1R5C60sP8487Zr7b1RZa3-mdafecPgggW/view?usp=sharing)  |
+<!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
+<!-- | Tabela | Tabela da Distribuição t  |  [link](https://drive.google.com/file/d/1af6fb6C-wZVIBAZhUZ347_igvjvSIExs/view?usp=sharing)  | -->
 
-- Todo o conteúdo dessas aulas, serão abordados de forma sincrona e assíncrona (material de leitura e  exercícios). 
-
-### Aula do dia 14/02/2022
+## Intervalos de Confiança
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| Assíncrona | Material didático para leitura  |  [link](https://drive.google.com/file/d/1Ixp5yrJv_oOiR6Jz1qSS2e9jjNFle-S4/view?usp=sharing)  |
-| Síncrona | Exercícios de Revisão|  [link](https://drive.google.com/file/d/1Da5QiGMChzhYnxcZX03fUljxLxfavYqD/view?usp=sharing)  |
-| Síncrona | ***Link para sala de aula remota (aula 14/02) |  [link]()  |
+| Síncrona | Slides da Aula de Intervalos de Confiança  |  [link](https://drive.google.com/file/d/1dkc91QU4RGTe0w0EP1oUIXfvWyZypUqa/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição Normal  |  [link](https://drive.google.com/file/d/1G0WE3paOXlOhSwoeQEENY58QSY4NNiBB/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição t-Student  |  [link](https://drive.google.com/file/d/1F66D17aSaHtU6MqkJNtDVTRUGhCF3CLe/view?usp=sharing)  |
 
-### Aula do dia 16/02/2022
-
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :----: |
-| Assíncrona | Tabela da Distribuição Binomial  |  [link](https://drive.google.com/file/d/1BWrbRl6btC_tlmtHL38bBE6kVQOMTk30/view?usp=sharing)  |
-| Assíncrona | Tabela da Distribuição Normal  |  [link](https://drive.google.com/file/d/1476g2L2LUcx6rT124C-Wx1hqQg4Bb6yL/view?usp=sharing)  |
-| Assíncrona | Tabela da Distribuição t  |  [link](https://drive.google.com/file/d/1af6fb6C-wZVIBAZhUZ347_igvjvSIExs/view?usp=sharing)  |
-| Assíncrona | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
-| Assíncrona | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
-| Assíncrona | Outras tabelas  |  [link](https://drive.google.com/file/d/15DvFsi1BCxLF7LDVD-6H0vk7WA51pqvg/view?usp=sharing)  |
-| Síncrona | ***Link para sala de aula remota (aula 17/02) |  [link]()  |
-
-### Aula do dia 21/02/2022
+## Testes de Hipótese
 
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | ***Link para sala de aula remota (aula 21/02) |  [meet.google.com/xgd-vmuu-htb](meet.google.com/sgq-ctrc-iii)  |
+| Síncrona | Slides da Aula de Testes de Hipotese - Parte 1  |  [link](https://drive.google.com/file/d/1tJ-CUPQrJqu8K2uZkBPFP9GN8N1hsbmO/view?usp=sharing)  |
+| Síncrona | Slides da Aula de Testes de Hipotese - Parte 2  |  [link](https://drive.google.com/file/d/1QSo09DRiu5qpZf30Ofpnww5DQS2_lQvR/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição Normal  |  [link](https://drive.google.com/file/d/1G0WE3paOXlOhSwoeQEENY58QSY4NNiBB/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição t-Student  |  [link](https://drive.google.com/file/d/1F66D17aSaHtU6MqkJNtDVTRUGhCF3CLe/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição Qui-quadrado  |  [link](https://drive.google.com/file/d/1I4uKKselienq2uHrgNi4QamNPu9a0aMN/view?usp=sharing)  |
 
-### Aula do dia 23/02/2022
+<!-- ## Análise de Variância (ANOVA) -->
 
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona  | Resolução do exercício da aula do dia 14/02/2022|  [link](Pratica/Exercicio_aula2_script.html)  |
-| Síncrona | ***Link para sala de aula remota (aula 23/02) |  [meet.google.com/xgd-vmuu-htb](meet.google.com/omw-knux-hhi)  |
-
-### Aula do dia 02/03/2022
-
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona  | app: Probability Distibutions (sugestão)|  -  |
-| Síncrona | ***Link para sala de aula remota (aula 02/03) |  [meet.google.com/owp-yskw-bsz](meet.google.com/owp-yskw-bsz)  |
+<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
+<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
+<!-- | Síncrona | Slides da Aula de Análise de Variância (ANOVA)  |  [link](https://drive.google.com/file/d/1c42MAGOQgTkQv6eJd_KhvasMj469qNr9/view?usp=sharing)  | -->
+<!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
 
 
+<!-- ## Aula do dia 04/04 - Experimentos Inteiramente ao Acaso (DIC) -->
 
-`r colFmt(" ***Importante: Para ter acesso a sala de aula remota, copie e cole o link na barra de endereços do navegador que será utilizado.",'red')`
-
-
-## Aula do dia 28/03 - Introdução à Experimentação
-
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Slides da Aula de Introdução à Experimentação  |  [link](https://drive.google.com/file/d/1oRjEW1pTJyWAqMZVyyFbC0S8SiHWI1Gl/view?usp=sharing)  |
-| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
-| Tabela | Tabela da Distribuição t  |  [link](https://drive.google.com/file/d/1af6fb6C-wZVIBAZhUZ347_igvjvSIExs/view?usp=sharing)  |
-
-## Aula do dia 30/03 - Análise de Variância (ANOVA)
-
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Slides da Aula de Análise de Variância (ANOVA)  |  [link](https://drive.google.com/file/d/1c42MAGOQgTkQv6eJd_KhvasMj469qNr9/view?usp=sharing)  |
-| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
+<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
+<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
+<!-- | Síncrona | Slides da Aula sobre Experimentos Inteiramente ao Acaso (DIC)  |  [link](https://drive.google.com/file/d/18Fc1OrgZAA_7Ly_zhWaN92ZZY7aMOFmW/view?usp=sharing)  | -->
+<!-- | Lista | Lista de Exercícios sobre DIC e Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1Qy4EVKWYWMkSdEhb-FQZ9LOntmVsCBUS/view?usp=sharing)  | -->
+<!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
 
 
-## Aula do dia 04/04 - Experimentos Inteiramente ao Acaso (DIC)
+<!-- ## Aula dos dias 06/04 e 11/04 - Testes para Diferenças entre Médias -->
 
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Slides da Aula sobre Experimentos Inteiramente ao Acaso (DIC)  |  [link](https://drive.google.com/file/d/18Fc1OrgZAA_7Ly_zhWaN92ZZY7aMOFmW/view?usp=sharing)  |
-| Lista | Lista de Exercícios sobre DIC e Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1Qy4EVKWYWMkSdEhb-FQZ9LOntmVsCBUS/view?usp=sharing)  |
-| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
-
-
-## Aula dos dias 06/04 e 11/04 - Testes para Diferenças entre Médias
-
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Slides da Aula sobre os Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1x_Jtb-kAK6gZHDX35fprLcsyB1mZ1-eb/view?usp=sharing)  |
-| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
-| Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
-| Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  |
+<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
+<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
+<!-- | Síncrona | Slides da Aula sobre os Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1x_Jtb-kAK6gZHDX35fprLcsyB1mZ1-eb/view?usp=sharing)  | -->
+<!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
+<!-- | Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  | -->
+<!-- | Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  | -->
 
 
-## Aula dos dias 13/04 e 18/04 - Experimentos em Blocos ao Acaso (DBC)
+<!-- ## Aula dos dias 13/04 e 18/04 - Experimentos em Blocos ao Acaso (DBC) -->
 
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Slides da Aula sobre os Experimentos em Blocos ao Acaso (DBC)  |  [link](https://drive.google.com/file/d/1UThlmA04Nhqy1jLcFzTN_Rk27zMFjipc/view?usp=sharing)  |
-| Lista | Lista de Exercícios sobre DBC  |  [link](https://drive.google.com/file/d/18HqIjSEM5YElolWv_e9Is44UjTiBmNSa/view?usp=sharing)  |
-| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
-| Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
-| Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  |
+<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
+<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
+<!-- | Síncrona | Slides da Aula sobre os Experimentos em Blocos ao Acaso (DBC)  |  [link](https://drive.google.com/file/d/1UThlmA04Nhqy1jLcFzTN_Rk27zMFjipc/view?usp=sharing)  | -->
+<!-- | Lista | Lista de Exercícios sobre DBC  |  [link](https://drive.google.com/file/d/18HqIjSEM5YElolWv_e9Is44UjTiBmNSa/view?usp=sharing)  | -->
+<!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
+<!-- | Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  | -->
+<!-- | Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  | -->
 
-## Aula dos dias 20/04 e 25/04 - Introdução à Regressão Linear Simples 
+<!-- ## Aula dos dias 20/04 e 25/04 - Introdução à Regressão Linear Simples  -->
 
 
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Slides da Aula sobre Regressão Linear Simples  |  [link](https://drive.google.com/file/d/1iHTbXqjSfWrapsbJDvscq4Jzd9Mw5M1N/view?usp=sharing)  |
-| Lista | Lista de Exercícios sobre Regressão Linear Simples  |  [link](https://drive.google.com/file/d/1K4TS6CXvIZuWfRjo43TT4WyBxhsPcrCg/view?usp=sharing)  |
-| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
+<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
+<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
+<!-- | Síncrona | Slides da Aula sobre Regressão Linear Simples  |  [link](https://drive.google.com/file/d/1iHTbXqjSfWrapsbJDvscq4Jzd9Mw5M1N/view?usp=sharing)  | -->
+<!-- | Lista | Lista de Exercícios sobre Regressão Linear Simples  |  [link](https://drive.google.com/file/d/1K4TS6CXvIZuWfRjo43TT4WyBxhsPcrCg/view?usp=sharing)  | -->
+<!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
