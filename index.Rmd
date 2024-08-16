@@ -1,12 +1,10 @@
 ---
 title: "Departamento de Matemática (ICE/UFRRJ)"
-subtitle: "Disciplinas de Estatística Experimental e Bioestatística"
+subtitle: "Disciplinas de Estatística Experimental"
 author: |
-  | Antônio Carlos Gonçalves
-  |
   | Wagner Tassinari 
   |
-date: "2022"
+date: "2024"
 output: 
   rmdformats::robobook:
     highlight: kate
@@ -263,7 +261,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Conteúdo das aulas
 
-## Apresentação da disciplina
+<!-- ## Apresentação da disciplina -->
 
 <!-- - Nessa aula será apresentado conteúdo e dinâmica das aulas.  -->
 
@@ -325,26 +323,30 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 ## Introdução à Estatística Experimental
 
-| Atividade  |       Tipo de Atividade                                       | Links|
+| Conteúdo  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Slides da Aula de Introdução à Estatística Experimental  |  [link](https://drive.google.com/file/d/1R5C60sP8487Zr7b1RZa3-mdafecPgggW/view?usp=sharing)  |
+| Aula | Slides da Aula de Introdução à Estatística Experimental  |  [link](https://drive.google.com/file/d/1R5C60sP8487Zr7b1RZa3-mdafecPgggW/view?usp=sharing)  |
+| Lista | Lista de Exercícios de Revisão  |  [link](https://drive.google.com/file/d/1-miOWfNkhyS5nF6jEtghc3YnmjzSfESN/view?usp=sharing)  |
 <!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
 <!-- | Tabela | Tabela da Distribuição t  |  [link](https://drive.google.com/file/d/1af6fb6C-wZVIBAZhUZ347_igvjvSIExs/view?usp=sharing)  | -->
 
 ## Intervalos de Confiança
 
-| Atividade  |       Tipo de Atividade                                       | Links|
+| Conteúdo  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Slides da Aula de Intervalos de Confiança  |  [link](https://drive.google.com/file/d/1dkc91QU4RGTe0w0EP1oUIXfvWyZypUqa/view?usp=sharing)  |
+| Aula | Slides da Aula de Intervalos de Confiança  |  [link](https://drive.google.com/file/d/1dkc91QU4RGTe0w0EP1oUIXfvWyZypUqa/view?usp=sharing)  |
+| Lista | Lista de Exercícios sobre Intervalos de Confiança  |  [link](https://drive.google.com/file/d/1gECoPBCaH16Wz1ijn-et8srM3LN4rOnx/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição Normal  |  [link](https://drive.google.com/file/d/1G0WE3paOXlOhSwoeQEENY58QSY4NNiBB/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição t-Student  |  [link](https://drive.google.com/file/d/1F66D17aSaHtU6MqkJNtDVTRUGhCF3CLe/view?usp=sharing)  |
 
 ## Testes de Hipótese
 
-| Atividade  |       Tipo de Atividade                                       | Links|
+| Conteúdo  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
-| Síncrona | Slides da Aula de Testes de Hipotese - Parte 1  |  [link](https://drive.google.com/file/d/1tJ-CUPQrJqu8K2uZkBPFP9GN8N1hsbmO/view?usp=sharing)  |
-| Síncrona | Slides da Aula de Testes de Hipotese - Parte 2  |  [link](https://drive.google.com/file/d/1QSo09DRiu5qpZf30Ofpnww5DQS2_lQvR/view?usp=sharing)  |
+| Aula | Slides da Aula de Testes de Hipotese - Parte 1  |  [link](https://drive.google.com/file/d/1tJ-CUPQrJqu8K2uZkBPFP9GN8N1hsbmO/view?usp=sharing)  |
+| Lista | Lista de Exercícios sobre Testes de Hipotese - Parte 1  |  [link](https://drive.google.com/file/d/1oRMLbL5ORxxidJeY_95Ee2DLfGnsg_RL/view?usp=sharing)  |
+| Aula | Slides da Aula de Testes de Hipotese - Parte 2  |  [link](https://drive.google.com/file/d/1QSo09DRiu5qpZf30Ofpnww5DQS2_lQvR/view?usp=sharing)  |
+| Lista | Lista de Exercícios sobre Testes de Hipotese - Parte 2  |  [link](https://drive.google.com/file/d/1DD4OfRzLXnakZYpv8_vyADsN95mtMXs7/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição Normal  |  [link](https://drive.google.com/file/d/1G0WE3paOXlOhSwoeQEENY58QSY4NNiBB/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição t-Student  |  [link](https://drive.google.com/file/d/1F66D17aSaHtU6MqkJNtDVTRUGhCF3CLe/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição Qui-quadrado  |  [link](https://drive.google.com/file/d/1I4uKKselienq2uHrgNi4QamNPu9a0aMN/view?usp=sharing)  |
