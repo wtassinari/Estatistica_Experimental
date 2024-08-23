@@ -174,27 +174,29 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- **P1** – ???
+- P1: 30/09/2024 
 
 \vspace{0.3mm}
 
-- **P2** – ???
+- Segunda Chamada (P1): 07/10/2024
 
 \vspace{0.3mm}
 
-- **Segunda Chamada** – ???
+- P2: 09/12/2024 
 
 \vspace{0.3mm}
 
-- **Optativa** – ???
+- Segunda Chamada (P2): 11/12/2024
 
 \vspace{0.3mm}
+
+- Optativa: 16/12/2024
+
+\vspace{0.3mm}
+
 
 - A média final será composta pela nota da primeira e da segunda avaliação.
 
-\vspace{0.3mm}
-
-- OBS1: Será aplicada apenas uma prova de segunda chamada.
 
 \vspace{0.3mm}
 
@@ -325,6 +327,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Conteúdo  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
+| Aula | Slides da Aula de Apresentação da Disciplina  |  [link](https://drive.google.com/file/d/1ydm-gGHIObZ_PA1b1bN76hMZvS2dfGWW/view?usp=sharing)  |
 | Aula | Slides da Aula de Introdução à Estatística Experimental  |  [link](https://drive.google.com/file/d/1R5C60sP8487Zr7b1RZa3-mdafecPgggW/view?usp=sharing)  |
 | Lista | Lista de Exercícios de Revisão  |  [link](https://drive.google.com/file/d/1-miOWfNkhyS5nF6jEtghc3YnmjzSfESN/view?usp=sharing)  |
 <!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
