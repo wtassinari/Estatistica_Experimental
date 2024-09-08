@@ -59,14 +59,10 @@ email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 library(cowplot)
 library(ggplot2)
 
-# p1 <- ggdraw() + draw_image('figure/mosaico.png', vjust = -0.5, scale = 1)
-# p2 <- ggdraw() + draw_image('figure/ufrrj.jpeg', scale = 1.5)
-# p3 <- ggdraw() + draw_image('figure/agronomia.jpg', vjust = 0.5, scale = 1)
 
 p1 <- ggdraw() + draw_image('figure/ufrrj.jpeg', scale = 1.5)
 p2 <- ggdraw() + draw_image('figure/agronomia.jpg', vjust = 0.5, scale = 0.9)
 plot_grid(p1, p2)
-
 
 ```
 
@@ -350,6 +346,8 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Lista | Lista de Exercícios sobre Testes de Hipotese - Parte 1  |  [link](https://drive.google.com/file/d/1oRMLbL5ORxxidJeY_95Ee2DLfGnsg_RL/view?usp=sharing)  |
 | Aula | Slides da Aula de Testes de Hipotese - Parte 2  |  [link](https://drive.google.com/file/d/1QSo09DRiu5qpZf30Ofpnww5DQS2_lQvR/view?usp=sharing)  |
 | Lista | Lista de Exercícios sobre Testes de Hipotese - Parte 2  |  [link](https://drive.google.com/file/d/1DD4OfRzLXnakZYpv8_vyADsN95mtMXs7/view?usp=sharing)  |
+| Aula | Slides da Aula de Testes de Hipotese - Parte 3  |  [link](https://drive.google.com/file/d/1GUQ4RCGm548wZ8p2-px1iyhlqD44nLwh/view?usp=sharing)  |
+| Lista | Lista de Exercícios sobre Testes de Hipotese - Parte 3  |  [link](https://drive.google.com/file/d/1C5LNg03v3-9OSNxhl3j7eELcZTKyvk0o/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição Normal  |  [link](https://drive.google.com/file/d/1G0WE3paOXlOhSwoeQEENY58QSY4NNiBB/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição t-Student  |  [link](https://drive.google.com/file/d/1F66D17aSaHtU6MqkJNtDVTRUGhCF3CLe/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição Qui-quadrado  |  [link](https://drive.google.com/file/d/1I4uKKselienq2uHrgNi4QamNPu9a0aMN/view?usp=sharing)  |
