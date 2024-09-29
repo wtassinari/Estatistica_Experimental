@@ -352,48 +352,37 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Tabela | Tabela da Distribuição t-Student  |  [link](https://drive.google.com/file/d/1F66D17aSaHtU6MqkJNtDVTRUGhCF3CLe/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição Qui-quadrado  |  [link](https://drive.google.com/file/d/1I4uKKselienq2uHrgNi4QamNPu9a0aMN/view?usp=sharing)  |
 
-<!-- ## Análise de Variância (ANOVA) -->
-
-<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
-<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
-<!-- | Síncrona | Slides da Aula de Análise de Variância (ANOVA)  |  [link](https://drive.google.com/file/d/1c42MAGOQgTkQv6eJd_KhvasMj469qNr9/view?usp=sharing)  | -->
-<!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
 
 
-<!-- ## Aula do dia 04/04 - Experimentos Inteiramente ao Acaso (DIC) -->
+## Experimentos Inteiramente ao Acaso (DIC)
 
-<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
-<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
-<!-- | Síncrona | Slides da Aula sobre Experimentos Inteiramente ao Acaso (DIC)  |  [link](https://drive.google.com/file/d/18Fc1OrgZAA_7Ly_zhWaN92ZZY7aMOFmW/view?usp=sharing)  | -->
-<!-- | Lista | Lista de Exercícios sobre DIC e Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1Qy4EVKWYWMkSdEhb-FQZ9LOntmVsCBUS/view?usp=sharing)  | -->
-<!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
-
-
-<!-- ## Aula dos dias 06/04 e 11/04 - Testes para Diferenças entre Médias -->
-
-<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
-<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
-<!-- | Síncrona | Slides da Aula sobre os Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1x_Jtb-kAK6gZHDX35fprLcsyB1mZ1-eb/view?usp=sharing)  | -->
-<!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
-<!-- | Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  | -->
-<!-- | Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  | -->
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Aula | Slides da Aula de Análise de Variância (ANOVA)  |  [link](https://drive.google.com/file/d/1tlNmnT8jdxCsxx8qhzkdV27lGB9UiSRN/view?usp=sharing)  | -->
+| Aula | Slides da Aula sobre Experimentos Inteiramente ao Acaso (DIC)  |  [link](https://drive.google.com/file/d/1ClVghp2fSOuvdd9dvXLAFfovVS6Z5xJj/view?usp=sharing)  |
+| Aula | Slides da Aula sobre os Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/19BmivyBQamGHyVvBwt30QlwMzJe0d4HR/view?usp=sharing)  | -->
+| Lista | Lista de Exercícios sobre DIC e Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1Qy4EVKWYWMkSdEhb-FQZ9LOntmVsCBUS/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
+| Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
+| Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  |
 
 
-<!-- ## Aula dos dias 13/04 e 18/04 - Experimentos em Blocos ao Acaso (DBC) -->
 
-<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
-<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
-<!-- | Síncrona | Slides da Aula sobre os Experimentos em Blocos ao Acaso (DBC)  |  [link](https://drive.google.com/file/d/1UThlmA04Nhqy1jLcFzTN_Rk27zMFjipc/view?usp=sharing)  | -->
-<!-- | Lista | Lista de Exercícios sobre DBC  |  [link](https://drive.google.com/file/d/18HqIjSEM5YElolWv_e9Is44UjTiBmNSa/view?usp=sharing)  | -->
-<!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
-<!-- | Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  | -->
-<!-- | Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  | -->
+## Experimentos em Blocos ao Acaso (DBC)
 
-<!-- ## Aula dos dias 20/04 e 25/04 - Introdução à Regressão Linear Simples  -->
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Aula | Slides da Aula sobre os Experimentos em Blocos ao Acaso (DBC)  |  [Em Breve]()  |
+| Lista | Lista de Exercícios sobre DBC  |  [Em Breve]()  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
+| Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
+| Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  |
+
+## Introdução à Regressão Linear Simples
 
 
-<!-- | Atividade  |       Tipo de Atividade                                       | Links| -->
-<!-- | :---------: | ------------------------------------------------------------ | :----: | -->
-<!-- | Síncrona | Slides da Aula sobre Regressão Linear Simples  |  [link](https://drive.google.com/file/d/1iHTbXqjSfWrapsbJDvscq4Jzd9Mw5M1N/view?usp=sharing)  | -->
-<!-- | Lista | Lista de Exercícios sobre Regressão Linear Simples  |  [link](https://drive.google.com/file/d/1K4TS6CXvIZuWfRjo43TT4WyBxhsPcrCg/view?usp=sharing)  | -->
-<!-- | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  | -->
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | :----: |
+| Aula | Slides da Aula sobre Regressão Linear Simples  |  [Em breve]()  |
+| Lista | Lista de Exercícios sobre Regressão Linear Simples  |  [Em Breve]()  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
