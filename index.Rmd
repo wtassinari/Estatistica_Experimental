@@ -361,10 +361,10 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Aula | Slides da Aula de Análise de Variância (ANOVA)  |  [link](https://drive.google.com/file/d/1tlNmnT8jdxCsxx8qhzkdV27lGB9UiSRN/view?usp=sharing)  | -->
 | Aula | Slides da Aula sobre Experimentos Inteiramente ao Acaso (DIC)  |  [link](https://drive.google.com/file/d/1ClVghp2fSOuvdd9dvXLAFfovVS6Z5xJj/view?usp=sharing)  |
 | Aula | Slides da Aula sobre os Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/19BmivyBQamGHyVvBwt30QlwMzJe0d4HR/view?usp=sharing)  | -->
-| Lista | Lista de Exercícios sobre DIC e Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1Qy4EVKWYWMkSdEhb-FQZ9LOntmVsCBUS/view?usp=sharing)  |
+| Lista | Lista de Exercícios sobre DIC e Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1CNUOAvum15Y7vo9jS13rJ5slUK9_7Ev2/view?usp=sharing)  |
 | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
 | Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
-| Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  |
+<!-- | Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  | -->
 
 
 
