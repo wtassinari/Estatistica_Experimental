@@ -362,8 +362,8 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Aula | Slides da Aula sobre Experimentos Inteiramente ao Acaso (DIC)  |  [link](https://drive.google.com/file/d/1ClVghp2fSOuvdd9dvXLAFfovVS6Z5xJj/view?usp=sharing)  |
 | Aula | Slides da Aula sobre os Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/19BmivyBQamGHyVvBwt30QlwMzJe0d4HR/view?usp=sharing)  | -->
 | Lista | Lista de Exercícios sobre DIC e Testes para Diferenças entre Médias  |  [link](https://drive.google.com/file/d/1CNUOAvum15Y7vo9jS13rJ5slUK9_7Ev2/view?usp=sharing)  |
-| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
-| Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/1RyHcJErRiu4KZucCr8KxdA4mCbsZu-MT/view?usp=sharing)  |
+| Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1oMN8sNfFaInuMxPNKfyetSh1AwvimkKB/view?usp=sharing)  |
 <!-- | Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  | -->
 
 
@@ -374,9 +374,8 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | :---------: | ------------------------------------------------------------ | :----: |
 | Aula | Slides da Aula sobre os Experimentos em Blocos ao Acaso (DBC)  |  [link](https://drive.google.com/file/d/15s33lC-wR-2liuel0DML76kVN0jXv02y/view?usp=sharing)  |
 | Lista | Lista de Exercícios sobre DBC  |  [link](https://drive.google.com/file/d/1w0R9vMTMnKez8PhATLD5xNxhfvpStGdz/view?usp=sharing)  |
-| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
-| Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1mCQet-Ie7nkeag9lCcCyx2T1hLm342QC/view?usp=sharing)  |
-| Tabela | Tabelas de Duncan  |  [link](https://drive.google.com/file/d/1WtjbK88BRdFS2i2RinSpJeErIH1ajmh_/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/1RyHcJErRiu4KZucCr8KxdA4mCbsZu-MT/view?usp=sharing)  |
+| Tabela | Tabelas de Tukey e Dunnet  |  [link](https://drive.google.com/file/d/1oMN8sNfFaInuMxPNKfyetSh1AwvimkKB/view?usp=sharing)  |
 
 ## Introdução à Regressão Linear Simples
 
@@ -385,6 +384,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | :---------: | ------------------------------------------------------------ | :----: |
 | Aula | Slides da Aula sobre Regressão Linear Simples  |  [link](https://drive.google.com/file/d/164AMQhRxXyfNNAtMn65jh45tOaz_hKQa/view?usp=sharing)  |
 | Lista | Lista de Exercícios sobre Regressão Linear Simples  |  [link](https://drive.google.com/file/d/1qV5hwK1USGrDI2H-8c07FokqYr_0JT0N/view?usp=sharing)  |
-| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/18ohSefWPh0qumBWPGUya0Td5pZSky1Jw/view?usp=sharing)  |
+| Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/1RyHcJErRiu4KZucCr8KxdA4mCbsZu-MT/view?usp=sharing)  |
+
 
 ## Normas e roteiro para apresentação do trabalho ([link](https://drive.google.com/file/d/1CCXSf5_nB4UFHC96vvJunPNaZ4kKnamo/view?usp=sharing))
