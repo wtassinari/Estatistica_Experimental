@@ -59,7 +59,7 @@ knitr::include_graphics("figure/ufrrj.jpeg")
 ```
 
 ```{r, echo=FALSE, fig.align="center", out.width="40%", out.height="20%"}
-knitr::include_graphics("figure/eucaliptus.jpg")
+knitr::include_graphics("figure/agronomia.jpg")
 ```
 
 
@@ -394,4 +394,4 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/1RyHcJErRiu4KZucCr8KxdA4mCbsZu-MT/view?usp=sharing)  |
 
 
-## Normas e roteiro para apresentação do trabalho ([link](https://drive.google.com/file/d/1CCXSf5_nB4UFHC96vvJunPNaZ4kKnamo/view?usp=sharing))
+<!-- ## Normas e roteiro para apresentação do trabalho ([link](https://drive.google.com/file/d/1CCXSf5_nB4UFHC96vvJunPNaZ4kKnamo/view?usp=sharing)) -->
