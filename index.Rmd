@@ -1,10 +1,10 @@
 ---
 title: "Departamento de Matemática (ICE/UFRRJ)"
-subtitle: "Disciplina: Estatística Experimental - IC 284"
+subtitle: "Disciplinas de Estatística Experimental"
 author: |
   | Wagner Tassinari 
   |
-date: "2025"
+date: "2024"
 output: 
   rmdformats::robobook:
     highlight: kate
@@ -54,27 +54,20 @@ colFmt <- function(x,color) {
 
 email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 
-```{r, echo=FALSE, fig.align="center", out.width="100%", out.height="20%"}
-knitr::include_graphics("figure/ufrrj.jpeg")
-```
-
-```{r, echo=FALSE, fig.align="center", out.width="40%", out.height="20%"}
-knitr::include_graphics("figure/agronomia.jpg")
-```
-
 
 ```{r echo=F, fig.align="center", message=FALSE, warning=FALSE, comments=NA, out.width="100%", comment=NA}
 library(cowplot)
 library(ggplot2)
 
-# p1 <- ggdraw() + draw_image('figure/ufrrj.jpeg', scale = 1.5)
-# p2 <- ggdraw() + draw_image('figure/eucaliptus.jpg', vjust = 0.5, scale = 0.9)
-# plot_grid(p1, p2)
+
+p1 <- ggdraw() + draw_image('figure/ufrrj.jpeg', scale = 1.5)
+p2 <- ggdraw() + draw_image('figure/agronomia.jpg', vjust = 0.5, scale = 0.9)
+plot_grid(p1, p2)
 
 ```
 
 
-Esta página representa o repositório do conteúdo das disciplinas de Estatística Experimental - 2025-1 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo das disciplinas de Estatística Experimental e Bioestatística - 2024-2 (DEMAT/UFRRJ)
 
 # Informações Gerais
 
@@ -156,7 +149,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 <!-- *Art. 31 § 1o - Para as atividades remotas síncronas haverá aferição de assiduidade...* -->
 
 
-# Programa da Disciplina
+# Programa das Disciplinas
 
 
 - Introdução à Estatística Experimental
@@ -175,17 +168,17 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 
 
-# Avaliação da Disciplina
+# Avaliação das Disciplinas
 
-- P1: 30/04/2025 
-
-\vspace{0.3mm}
-
-- Segunda Chamada (P1): 07/05/2025
+- P1: 05/05/2025 
 
 \vspace{0.3mm}
 
-- P2: 23/06/2025 
+- Segunda Chamada (P1): 12/05/2025
+
+\vspace{0.3mm}
+
+- P2: 23/06/2025
 
 \vspace{0.3mm}
 
@@ -394,4 +387,4 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Tabela | Tabela da Distribuição F  |  [link](https://drive.google.com/file/d/1RyHcJErRiu4KZucCr8KxdA4mCbsZu-MT/view?usp=sharing)  |
 
 
-<!-- ## Normas e roteiro para apresentação do trabalho ([link](https://drive.google.com/file/d/1CCXSf5_nB4UFHC96vvJunPNaZ4kKnamo/view?usp=sharing)) -->
+## Normas e roteiro para apresentação do trabalho ([link](https://drive.google.com/file/d/1CCXSf5_nB4UFHC96vvJunPNaZ4kKnamo/view?usp=sharing))
